@@ -9,48 +9,48 @@
 var friend_Array = [
     {
       friendName: "Mickey Mouse",
-      photo: "",
+      photo: "http://via.placeholder.com/350x350/",
       scores: [5,5,5,5,5,5,5,5,5,5]
     },
     {
         friendName: "Goofy",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [4,4,4,4,4,4,4,4,4,4]
     },
     {
         friendName: "Donald Duck",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [3,3,3,3,3,3,3,3,3,3]
     },
     {
         friendName: "Moogly",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [1,1,1,1,1,1,1,1,1,1]
     },
     {
         friendName: "Snow White",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [2,2,2,2,2,2,2,2,2,2]
     }, 
     {
         friendName: "Cindarella",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [3,3,3,3,3,3,3,3,3,3]
     },
     {
         friendName: "Sleeping Beauty",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [4,4,4,4,4,4,4,4,4,4]
     },
     {
         friendName: "Cruella",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [1,1,1,1,1,1,1,1,1,1]
     },
 
     {
         friendName: "Daisy",
-        photo: "",
+        photo: "http://via.placeholder.com/350x350",
         scores: [5,5,5,5,5,5,5,5,5,5]
     }
 
