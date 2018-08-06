@@ -1,35 +1,59 @@
 // ____________________________________________________________________________________
 // DATA
 //
-//  Include a testing list of Friends. 
+//  Includes a testing list of Friends. 
+//  Testing list of friends is from API called
+//
 // ____________________________________________________________________________________
 
 var friend_Array = [
     {
-      friendName: "Napoleon Dynamite",
-      photo: "https://pbs.twimg.com/profile_images/976941155370795014/ZzdOhH9C_400x400.jpg",
+      friendName: "Mickey Mouse",
+      photo: "",
       scores: [5,5,5,5,5,5,5,5,5,5]
     },
     {
-        friendName: "Sheldon Cooper",
-        photo: "https://pbs.twimg.com/profile_images/856279098448125952/j46wF224_400x400.jpg",
-        scores: [3,3,3,3,3,3,3,3,3,3]
-    },
-    {
-        friendName: "Dwight Schrute",
-        photo: "https://pbs.twimg.com/profile_images/549268771484229632/WnatiHzT_400x400.jpeg",
+        friendName: "Goofy",
+        photo: "",
         scores: [4,4,4,4,4,4,4,4,4,4]
     },
     {
-        friendName: "Hermione Granger",
-        photo: "https://pbs.twimg.com/profile_images/723246690707316736/PsDm8Rby_400x400.jpg",
+        friendName: "Donald Duck",
+        photo: "",
+        scores: [3,3,3,3,3,3,3,3,3,3]
+    },
+    {
+        friendName: "Moogly",
+        photo: "",
         scores: [1,1,1,1,1,1,1,1,1,1]
     },
     {
-        friendName: "Amy Farrah Fowler",
-        photo: "https://pbs.twimg.com/profile_images/1002782052637466624/m4VubqNl_400x400.jpg",
+        friendName: "Snow White",
+        photo: "",
         scores: [2,2,2,2,2,2,2,2,2,2]
+    }, 
+    {
+        friendName: "Cindarella",
+        photo: "",
+        scores: [3,3,3,3,3,3,3,3,3,3]
+    },
+    {
+        friendName: "Sleeping Beauty",
+        photo: "",
+        scores: [4,4,4,4,4,4,4,4,4,4]
+    },
+    {
+        friendName: "Cruella",
+        photo: "",
+        scores: [1,1,1,1,1,1,1,1,1,1]
+    },
+
+    {
+        friendName: "Daisy",
+        photo: "",
+        scores: [5,5,5,5,5,5,5,5,5,5]
     }
+
   ];
   
   // Export the array.
